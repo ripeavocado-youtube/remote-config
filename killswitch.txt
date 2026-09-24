@@ -1,7 +1,5 @@
-SHUTDOWN
+
 the XZXZXZXZXZXXX
 zzzxxxzzxXZXZXZXv
 DISABLEV0.6
 D
-SHUTDOWN
-shutdown
